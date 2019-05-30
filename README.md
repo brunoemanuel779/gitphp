@@ -1,3 +1,3 @@
-Este meu primeiro comentario
+Este respositorio e ultizado para estudar git e github
 
-alteracao para o commit
+Treinamentos com commits e pushs
